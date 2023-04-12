@@ -6,7 +6,7 @@
     background-image: url(../img/blob-scene-haikei\ \(2\).svg);
     background-size: cover;
     background-repeat: no-repeat;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
 
 }
@@ -15,7 +15,4 @@
 }
 .yoy {
     background-color: #56269d;
-}
-.socials{
-    color: #56269d;;
 }
