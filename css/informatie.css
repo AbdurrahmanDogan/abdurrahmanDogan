@@ -1,0 +1,14 @@
+.main{
+    background-image: url(../img/blob-scene-haikei\ \(6\).svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.a{
+    color: #55d81b;
+}
+
+.yoy{
+    background-color:  #55d81b;
+}
